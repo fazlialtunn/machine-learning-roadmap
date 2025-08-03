@@ -10,10 +10,11 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 - ❌ [Part of NeetCode 150](https://www.youtube.com/playlist?list=PLa64gMHij0a4p9RoSEkK1seujlyPQmpYu)
 
 ### 2. Math Foundations  
-- *Coming soon...*
+- ❌ [Mathematics for Machine Learning - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- ❌ [Mathematics for Deep Learning](https://www.youtube.com/playlist?list=PLB1nTQo4_y6tboe4_4HrYD7ipMlzrhCJ8)
 
 ### 3. Data Science  
-- *Coming soon...*
+- ✅ [Data Analysis & Visualisation](https://www.youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA)
 
 ### 4. Machine Learning  
 - ✅ 18/18 hours [FreeCodeCamp-Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A&t)
