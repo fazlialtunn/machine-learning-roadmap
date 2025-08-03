@@ -5,7 +5,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 ## 📚 Topics Covered
 
 ### 1. Data Structures & Algorithms  
-- [FreeCodeCamp-Data Structures Easy to Advanced Course – Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s)
+- ❌ 0h/8h [FreeCodeCamp-Data Structures Easy to Advanced Course – Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s) 
 
 ### 2. Math Foundations  
 - *Coming soon...*
@@ -14,7 +14,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 - *Coming soon...*
 
 ### 4. Machine Learning  
-- [FreeCodeCamp-Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A&t)
+- ✅ 18/18 hours [FreeCodeCamp-Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A&t)
 
 ### 5. Deep Learning  
-- [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 1/8 video
