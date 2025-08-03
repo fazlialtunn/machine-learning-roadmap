@@ -17,4 +17,4 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 - *Coming soon...*
 
 ### 5. Deep Learning  
-- *Coming soon...*
+- [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
