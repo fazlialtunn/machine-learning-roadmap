@@ -4,9 +4,10 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 
 ## 📚 Topics Covered
 
-### 1. Data Structures & Algorithms  
+### 1. Data Structures, Algorithms and LeetCode
 - ❌ 0h/8h [FreeCodeCamp-Data Structures Easy to Advanced Course – Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s)
 - ❌ [FreeCodeCamp-Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU)
+- ❌ [Part of NeetCode 150](https://www.youtube.com/playlist?list=PLa64gMHij0a4p9RoSEkK1seujlyPQmpYu)
 
 ### 2. Math Foundations  
 - *Coming soon...*
@@ -20,6 +21,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 ### 5. Deep Learning  
 - ❌ 1/8 video [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - ❌ 0/10 video[Andrej Karpathy-Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- ❌ 3/10 video[MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ### 6. GPU Programming  (not decided for sure)
 - ❌ [FreeCodeCamp-CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=25219s)
