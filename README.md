@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Roadmap
+# 🧠 My Machine Learning and Mayyybe GPU Programming Roadmap
 
 A structured roadmap to guide my journey through the fundamentals of Machine Learning, from foundational concepts to advanced topics.
 
