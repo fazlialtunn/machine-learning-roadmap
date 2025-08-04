@@ -7,12 +7,12 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 ### 1. Data Structures, Algorithms and LeetCode
 - ❌ 0h/8h [FreeCodeCamp-Data Structures Easy to Advanced Course – Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s)
 - ❌ [FreeCodeCamp-Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU)
+- ❌ 0/70 problem [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://www.youtube.com/watch?v=lvO88XxNAzs)
 - ❌ [Part of NeetCode 150](https://www.youtube.com/playlist?list=PLa64gMHij0a4p9RoSEkK1seujlyPQmpYu)
-- ❌ [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://www.youtube.com/watch?v=lvO88XxNAzs)
 
 ### 2. Math Foundations  
-- ❌ [Mathematics for Machine Learning - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-- ❌ [Mathematics for Deep Learning](https://www.youtube.com/playlist?list=PLB1nTQo4_y6tboe4_4HrYD7ipMlzrhCJ8)
+- ❌ 0/4 hours [Mathematics for Machine Learning - Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- ❌ 0/4 hours [Mathematics for Deep Learning](https://www.youtube.com/playlist?list=PLB1nTQo4_y6tboe4_4HrYD7ipMlzrhCJ8)
 
 ### 3. Data Science  
 - ✅ [Data Analysis & Visualisation](https://www.youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA)
