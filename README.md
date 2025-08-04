@@ -21,7 +21,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 - ✅ 18/18 hours [FreeCodeCamp-Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A&t)
 
 ### 5. Deep Learning  
-- ❌ 1/8 video [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- ✅ 8/8 video [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - ❌ 0/10 video[Andrej Karpathy-Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - ❌ 3/10 video[MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
