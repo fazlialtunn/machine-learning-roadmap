@@ -7,6 +7,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 ### 1. Data Structures, Algorithms and LeetCode
 - ✅ 8h/8h [FreeCodeCamp-Data Structures Easy to Advanced Course – Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s)
 - ✅ [FreeCodeCamp-Data Structure and Algorithm Patterns for LeetCode Interviews](https://www.youtube.com/watch?v=Z_c4byLrNBU)
+- ✅ [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!)](https://www.youtube.com/watch?v=RYT08CaYq6A)
 - ❌ 0/70 problem [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://www.youtube.com/watch?v=lvO88XxNAzs)
 - ❌ [Part of NeetCode 150](https://www.youtube.com/playlist?list=PLa64gMHij0a4p9RoSEkK1seujlyPQmpYu)
 - ✅ [Legend Abdul Bari](https://www.youtube.com/@abdul_bari)
