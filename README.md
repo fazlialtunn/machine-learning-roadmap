@@ -21,6 +21,7 @@ A structured roadmap to guide my journey through the fundamentals of Machine Lea
 
 ### 4. Machine Learning  
 - ✅ 18/18 hours [FreeCodeCamp-Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A&t)
+- ✅ [Machine Learning I from Columbia University](https://plus.columbia.edu/content/machine-learning-i)
 
 ### 5. Deep Learning  
 - ✅ 8/8 video [3Blue1Brown-Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
